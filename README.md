@@ -1,7 +1,7 @@
 # salonijain
 
 <h1 align="center">Hi 👋, I'm Saloni Jain</h1>
-<h3 align="center">Software Developer | React | Azure DevOps | Python |System Design</h3>
+<h3 align="center">Software Developer | React | Azure DevOps | Python | System Design</h3>
 
 ---
 
@@ -30,7 +30,8 @@ I enjoy building scalable web applications, working with cloud technologies, and
 - REST APIs  
 - Flask  
 - JavaScript  
-- Git & CI/CD  
+- System Design
+- Node.js
 
 ---
 
