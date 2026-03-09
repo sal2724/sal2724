@@ -1,5 +1,7 @@
 # salonijain
-![Banner](Banner.png)
+<p align="center">
+  <img src="Banner.png" width="100%" height="220"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Saloni Jain</h1>
 <h3 align="center">Software Developer | React | Azure DevOps | Python | System Design</h3>
